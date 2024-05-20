@@ -1,7 +1,5 @@
 # Palworld - Guide to Pals
 
-> Version 0.1.5.1
-
 ## Legende
 
 - GEI: Geistige Gesundheit
