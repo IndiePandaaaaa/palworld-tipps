@@ -57,6 +57,7 @@
 ### Team Pals: Kampf
 
 > Herr der "X" +20% X-Element Attacken [lord of X][X Emperor], sind nicht bei jedem Pal verfügbar, aber "nice to have but not must have"
+> ab Version v0.2.0.6: Mercy Hit [Mercy Hit], angegriffene Pals werden lediglich bis auf 1 HP angegriffen
 
 #### Tier 3
 
@@ -77,6 +78,10 @@
 - grobian [hooligan], +15% Angriff, -10% Arbeitstempo
 - sadist [sadist], +15% Angriff, -15% Verteidigung
 - masochist [masochist], +15% Verteidigung, -15% Angriff
+
+#### negativ Tier 1
+
+- Rücksichtsvoll [mercy hit], angegriffenen Pals wird lediglich bis 1 HP Schaden zugefügt
 
 ## Arbeitskategorien
 
