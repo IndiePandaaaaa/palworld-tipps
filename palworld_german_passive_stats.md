@@ -11,7 +11,7 @@
 
 > Empfehlung: Schatten Pals [dark]: eher weniger Abnahme von GEI als passive Fähigkeit als die Abnahme der Sättigung
 
-### Base
+### Base Pals
 
 #### Tier 3
 - außergewöhnlich [lucky], +15% Angriff/Arbeitstempo
@@ -83,7 +83,7 @@
 
 - Rücksichtsvoll [mercy hit], angegriffenen Pals wird lediglich bis 1 HP Schaden zugefügt
 
-## Arbeitskategorien
+## Elemente und Arbeitsbereiche
 
 > Legende: {Legendary}, (Pal ist groß, daher bleibt er in Gebäuden gerne hängen) 
 
@@ -94,7 +94,7 @@
 - Feuer: (Jormuntide Ignis), Suzaku
 - Holzfäller: (Warsect), (Wumpo), Bushi
 - Strom: Rayhound, (Relaxaurus Lux), Orserk
-- Eis: {Frostallion}, (Ice Kingpaca), (Cryolinx), Reindrix, Jolthog
+- Eis: {Frostallion}, (Ice Kingpaca), (Cryolinx), (Vanwrym Cryst), Jolthog Cryst
 
 - Angriff: {Jetragon}, {Frostallion}, Lunaris, Rayhound, Mossanda Lux
 - Fliegen: {Jetragon}, Faleris, Suzaku, Helzephyr
@@ -110,8 +110,8 @@
 ### Base
 
 - Transport [Schatten] (Helzephyr): Geschwindigkeit (blitzschnell, guter Läufer, flink) + workaholic
-- Arbeitstiere (Suzaku): Arbeitstempo (Handwerksmeister, Arbeitsvieh, fleißig) + Fastenprofi
-- Farm-Tiere (Lamball): weniger Abnahme der Werte (Fastenprofi, workaholic, genügsam, positive Gedanken)
+- Herstellung (Suzaku): Arbeitstempo (Handwerksmeister, Arbeitsvieh, fleißig) + Fastenprofi
+-  (Lamball): weniger Abnahme der Werte (Fastenprofi, workaholic, genügsam, positive Gedanken)
 
 ### Team:
 
@@ -130,3 +130,4 @@
 - [Passive Fähigkeiten](https://palworld.fandom.com/de/wiki/Passivfähigkeiten)
 - [Rideable Pals](https://palworld.fandom.com/wiki/Rideable_Pals)
 - [Partner Skills](https://palworld.fandom.com/wiki/Partner_Skills)
+- [Farming Pals](https://game8.co/games/Palworld/archives/440217)
