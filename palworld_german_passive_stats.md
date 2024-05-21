@@ -19,13 +19,10 @@
 - Fastenprofi [dietlover], 15% weniger Abnahme der Sättigung
 - workaholic [workaholic], 15% weniger Abnahme der GEI
 
-#### Tier 2
-
-- fleißig [serious], +20% Arbeitstempo
-
 #### Tier 1
 
 - Arbeitsvieh [workslave], +30% Arbeitstempo, -30% Angriff
+- fleißig [serious], +20% Arbeitstempo
 - eingebildet [conceited], +10% Arbeitstempo, -10% Verteidigung
 - genügsam [dainty eater], 10% weniger Abnahme der Sättigung
 - positive Gedanken [positive mind], 10% weniger Abnahme der GEI
