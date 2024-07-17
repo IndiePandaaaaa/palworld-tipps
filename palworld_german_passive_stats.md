@@ -60,9 +60,11 @@
 > Herr der "X" +20% X-Element Attacken [lord of X][X Emperor], sind nicht bei jedem Pal verfügbar, aber "nice to have but not must have"
 
 > unermüdlich [infinite stamina], +50% max. Ausdauer (reitbare Pals)
+
 > Wildfang [fit as a fiddle], +25% max. Ausdauer (reitbare Pals)
 
 > Konzentration [serenity], -30% Abklingzeit der Aktivfähigkeiten, +10% Angriff
+
 > ungeduld [impatient], -15% Abklingzeit der Aktivfähigkeiten
 
 > unerforschte Zellen [otherwordly cells], +10% Angriff, -15% Feuerschaden, -15% Blitzschaden
@@ -110,7 +112,7 @@
 - Eis: {Frostallion}, (Ice Kingpaca), (Cryolinx), (Vanwrym Cryst), Jolthog Cryst
 
 - Angriff: {Jetragon}, {Frostallion}, Lunaris, Rayhound, Mossanda Lux
-- Fliegen: {Jetragon}, Faleris, Suzaku, Helzephyr
+- Flug: {Jetragon}, Faleris, Suzaku, Helzephyr
 
 ## Breeding Beispiele
 
@@ -130,7 +132,7 @@
 
 - Gleiter (Galeclaw): Geschwindigkeit (blitzschnell, guter Läufer, Legende, flink)
 - Herstellung (Vulmag): Arbeitstempo (Handwerksmeister, fleißig, außergewöhnlich, wild)
-- fliegen (Jetragon): Geschwindigkeit (blitzschnell, guter Läufer, Legende, flink)
+- Flug (Jetragon): Geschwindigkeit (blitzschnell, guter Läufer, Legende, flink)
 - Allrounder (Wumpo): Angriff (Legende, wild, außergewöhnlich, stämmiger Wuchs)
 - Kampf (Lunaris): Angriff (Legende, wild, mehr Kraft als Verstand, stämmiger Wuchs)
 
