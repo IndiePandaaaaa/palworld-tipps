@@ -13,6 +13,10 @@
 
 ### Base Pals
 
+> nachtaktiv [nocturnal], Schläft Nachts nicht und arbeitet weiter
+
+> Philantropie [philanthropist], +100% Zuchtfarm Tempo
+
 #### Tier 3
 - außergewöhnlich [lucky], +15% Angriff/Arbeitstempo
 - Handwerksmeister [artisan], +50% Arbeitstempo
@@ -51,10 +55,17 @@
 - Festungskommandant [stronghold strategist], +10% Verteidigung Spieler
 - Forstmeister [logging foreman], +25% effizienz holzfällen Spieler
 
-### Team Pals: Kampf
+### Team Pals: Aktiv (Kampf)
 
 > Herr der "X" +20% X-Element Attacken [lord of X][X Emperor], sind nicht bei jedem Pal verfügbar, aber "nice to have but not must have"
-> ab Version v0.2.0.6: Mercy Hit [Mercy Hit], angegriffene Pals werden lediglich bis auf 1 HP angegriffen
+
+> unermüdlich [infinite stamina], +50% max. Ausdauer (reitbare Pals)
+> Wildfang [fit as a fiddle], +25% max. Ausdauer (reitbare Pals)
+
+> Konzentration [serenity], -30% Abklingzeit der Aktivfähigkeiten, +10% Angriff
+> ungeduld [impatient], -15% Abklingzeit der Aktivfähigkeiten
+
+> unerforschte Zellen [otherwordly cells], +10% Angriff, -15% Feuerschaden, -15% Blitzschaden
 
 #### Tier 3
 
@@ -79,6 +90,11 @@
 #### negativ Tier 1
 
 - Rücksichtsvoll [mercy hit], angegriffenen Pals wird lediglich bis 1 HP Schaden zugefügt
+
+### Pals direkt für den Verkauf
+
+- Premium [noble], +5% Verkaufspreis
+- Edles Fell [fine furs], +3% Verkaufspreis
 
 ## Elemente und Arbeitsbereiche
 
