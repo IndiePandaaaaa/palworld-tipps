@@ -3,9 +3,10 @@
 ## guides
 
 - passive skills ([EN](PassiveSkills_EN.md)|[DE](PassiveSkills_DE.md))
-
-[//]: # (- pals for the team ([EN](PalsTeam_EN.md)|[DE](PalsTeam_DE.md)))
-[//]: # (- pals for the base ([EN](PalsBase_EN.md)|[DE](PalsBase_DE.md)))
+<!--
+- pals for the team ([EN](PalsTeam_EN.md)|[DE](PalsTeam_DE.md))
+- pals for the base ([EN](PalsBase_EN.md)|[DE](PalsBase_DE.md))
+  -->
 
 ## ToDo's
 
