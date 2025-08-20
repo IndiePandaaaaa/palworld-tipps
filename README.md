@@ -11,9 +11,9 @@
 ## ToDo's
 
 - [x] Create an updated version of passive skills
+- [x] Create a German translation
 - [ ] Create a list for base pals
 - [ ] Create a list for team pals
-- [ ] Create a fitting German translation
 
 ## links
 
@@ -21,7 +21,7 @@
 - [paldex](https://palworld.gg/de/pals)
 - [breeding calculator](https://palworld.gg/de/breeding-calculator)
 - [breeding tree](https://palbreed.com/breeding-tree)
-- passive skills [EN](https://palworld.fandom.com/wiki/Passive_Skills)|[DE](https://palworld.fandom.com/de/wiki/Passivfähigkeiten)
+- passive skills [EN](https://palpedia.com/passive-skills)|[DE](https://paldb.cc/de/Passive_Skills)
 - [rideable pals](https://palworld.fandom.com/wiki/Rideable_Pals)
 - [partner skills](https://palworld.fandom.com/wiki/Partner_Skills)
 - [farming pals](https://game8.co/games/Palworld/archives/440217)
