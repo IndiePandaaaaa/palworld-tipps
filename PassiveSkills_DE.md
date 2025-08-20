@@ -64,42 +64,42 @@
 
 | Name                  | Attribute                                          |
 | --------------------- | -------------------------------------------------- |
-| Fleißig               | Arbeitstempo +20%                                  |
-| Hart im Nehmen        | Verteidigung +10%                                  |
-| Mutig                 | Angriff +10%                                       |
-| Grobian               | Angriff +15%, Arbeitstempo -10%                    |
-| Eingebildet           | Arbeitstempo +10% , Verteidigung -10%              |
-| Sadist                | Angriff +15%, Verteidigung -15%                    |
-| Masochist             | Verteidigung +15%, Angriff -15%                    |
 | Arbeitsvieh           | Arbeitstempo +30%, Angriff -30%                    |
-| Großkotz              | Angriff +10%, Verteidigung -10%                    |
-| Neutralitätspakt      | Neutralschaden -10%                                |
-| Cooler Typ            | Feuerschaden -10%                                  |
-| Imprägniert           | Wasserschaden -10%                                 |
 | Blitzableiter         | Elektroschaden -10%                                |
+| Cooler Typ            | Feuerschaden -10%                                  |
+| Drachengeborener      | Drachenangriffsschaden +10%                        |
+| Drachentöter          | Drachenschaden -10%                                |
+| Dynamo                | Elektroangriffsschaden +10%                        |
+| Eingebildet           | Arbeitstempo +10% , Verteidigung -10%              |
+| Erdbebensicher        | Erdschaden -10%                                    |
+| Fit wie ein Turnschuh | Maxi max. Ausdauer +25% (reitbare Pals)            |
+| Fleißig               | Arbeitstempo +20%                                  |
+| Flink                 | Bewegungstempo +10%                                |
+| Frohnatur             | Schattenschaden -10%                               |
+| Genügsam              | Sattheit Abnahme -10%                              |
+| Grobian               | Angriff +15%, Arbeitstempo -10%                    |
+| Großkotz              | Angriff +10%, Verteidigung -10%                    |
+| Grufti                | Schattenangriffsschaden +10%                       |
+| Hart im Nehmen        | Verteidigung +10%                                  |
 | Herbizid              | Grasschaden -10%                                   |
 | Hitzkopf              | Eisschaden -10%                                    |
-| Erdbebensicher        | Erdschaden -10%                                    |
-| Frohnatur             | Schattenschaden -10%                               |
-| Drachentöter          | Drachenschaden -10%                                |
-| Neutralisator         | Neutralangriffsschaden +10%                        |
-| Pyromane              | Feuerangriffsschaden +10%                          |
-| Wasserratte           | Wasserangriffsschaden +10%                         |
-| Dynamo                | Elektroangriffsschaden +10%                        |
+| Imprägniert           | Wasserschaden -10%                                 |
 | Kaltblütig            | Eisangriffsschaden +10%                            |
 | Macht von Gaia        | Erdangriffsschaden +10%                            |
-| Positive Thinker      | GEI Abnahme -10%                                   |
 | Macht von Gaia        | Erdangriffsschaden +10%                            |
-| Grufti                | Schattenangriffsschaden +10%                       |
-| Drachengeborener      | Drachenangriffsschaden +10%                        |
-| Genügsam              | Sattheit Abnahme -10%                              |
-| Positive Gedanken     | GEI Abnahme -10%                                   |
-| Flink                 | Bewegungstempo +10%                                |
+| Masochist             | Verteidigung +15%, Angriff -15%                    |
+| Mutig                 | Angriff +10%                                       |
 | Nachtaktiv            | nachtaktiv und arbeitet weiter                     |
-| Ungeduld              | Fähigkeitenabklingzeit -15%                        |
-| Fit wie ein Turnschuh | Maxi max. Ausdauer +25% (reitbare Pals)            |
-| Unerforschte Zellen   | Angriff +10%, Feuerschaden -15%, Blitzschaden -15% |
+| Neutralisator         | Neutralangriffsschaden +10%                        |
+| Neutralitätspakt      | Neutralschaden -10%                                |
+| Positive Gedanken     | GEI Abnahme -10%                                   |
+| Positive Thinker      | GEI Abnahme -10%                                   |
+| Pyromane              | Feuerangriffsschaden +10%                          |
+| Sadist                | Angriff +15%, Verteidigung -15%                    |
 | Stromlinienform       | Bewegungstempo (Wasser) +30%                       |
+| Unerforschte Zellen   | Angriff +10%, Feuerschaden -15%, Blitzschaden -15% |
+| Ungeduld              | Fähigkeitenabklingzeit -15%                        |
+| Wasserratte           | Wasserangriffsschaden +10%                         |
 
 ### Tier -1
 
