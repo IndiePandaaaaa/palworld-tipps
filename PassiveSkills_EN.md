@@ -33,7 +33,7 @@
 | Diet Lover             | hunger decrease -15%              |
 | Divine Dragon          | dragon attack damage +20%         |
 | Earth Emperor          | earth attack damage +20%          |
-| Ferocious              | damage +20%                       |
+| Ferocious              | attack +20%                       |
 | Flame Emperor          | fire attack damage +20%           |
 | Ice Emperor            | ice attack damage +20%            |
 | Infinite Stamina       | max. stamina +50% (rideable pals) |
