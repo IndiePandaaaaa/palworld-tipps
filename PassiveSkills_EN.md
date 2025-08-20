@@ -12,7 +12,7 @@
 | Eternal Flame               | fire attack damage +30%, lightning attack damage +30%          |
 | Heart of the Immovable King | SAN drop -20%                                                  |
 | Invader                     | dark attack damage +30%, dragon attack damage +30%             |
-| King of the Waves           | movement speed +50%                                            |
+| King of the Waves           | water movement speed +50%                                      |
 | Legend                      | attack damage +20%, defense +20%, movement speed +20%          |
 | Lucky                       | work speed +15%, attack +15%                                   |
 | Lunker                      | water attack damage +20%, ice attack damage +20%, defense +20% |
